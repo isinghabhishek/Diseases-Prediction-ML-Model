@@ -8,9 +8,11 @@ prediction. Python, Streamlit for Deployment.
 
 (link- https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/)
 
+## Diabetic Precdiction System
+
 ![mdpDiabticuML](https://user-images.githubusercontent.com/91690267/190630547-59c8d763-09ee-4275-822e-d98c66e21a8a.jpg)
 
-## Heart Disease Preediction System 
+## Heart Disease Prediction System 
 
 ![mdpaHDuML](https://user-images.githubusercontent.com/91690267/190630519-9ed588b3-14ae-4fb3-8c56-9f423c5b6e7f.jpg)
 

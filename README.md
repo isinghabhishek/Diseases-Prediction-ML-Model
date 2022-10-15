@@ -14,6 +14,6 @@ prediction. Python, Streamlit for Deployment.
 
 ## Heart Disease Prediction System 
 
-![mdpaHDuML](https://user-images.githubusercontent.com/91690267/190630519-9ed588b3-14ae-4fb3-8c56-9f423c5b6e7f.jpg)
+![HDS](https://user-images.githubusercontent.com/91690267/195996196-6123204a-b4da-4ef2-a099-8e5b3a9de280.jpg)
 
 

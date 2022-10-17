@@ -6,7 +6,7 @@ takes different inputs from the user and the trained model predict the result on
 Support Vector Machine model for the Diabetic Prediction, and we use Logistic Regression model for Heart Disease 
 prediction. Python, Streamlit for Deployment.
 
-(link- https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/)
+Please Do Visit Web site for more info (link- https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/)
 
 ## Diabetic Prediction System
 

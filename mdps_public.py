@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 10 15:31:27 2022
 
-@author: ABHISHEK
+@author: ABHISHEK SINGH
 """
 
 import pickle
@@ -81,6 +81,7 @@ if(selected == 'Diabetic Prediction'):
     
     
 # Heart disease Prediction Page
+
 if(selected == 'Heart Disease Prediction System'):
     
     # page title
@@ -130,9 +131,6 @@ if(selected == 'Heart Disease Prediction System'):
     with col1:
         thal = st.text_input('thal: 0 = normal; 1 = fixed defect; 2 = reversable defect')
         
-    
-        
-    
     
     # code for Prediction
     diab_diagnosis = ''
